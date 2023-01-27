@@ -1,5 +1,5 @@
 <form action="/my-handling-form-page" method="post">
-	<h2>DEVOPS PROJECT</h2>
+	<h2>DEVOPS PROJECT V2</h2>
 	<ul>
     <li>
       <label for="name">Name:</label>
