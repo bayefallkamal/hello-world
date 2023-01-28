@@ -1,5 +1,5 @@
 <form>
-	<marquee>PROJECT DOVOPS SEGN DJILY</marquee>
+ <h2>DEVOPS PRJCT 3</h2>
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Email address</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
